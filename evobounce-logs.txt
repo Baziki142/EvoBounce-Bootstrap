@@ -1,0 +1,20 @@
+Changelog:
+- Added TargetMark & Skeletal
+- Merged same settings in many HUD elements
+- Fixed notifications, new logos
+- Completely removed 56 modules ^
+- Added new default fonts
+- Added 2 new capes: Catto & SkidmaJello
+- Added new button style & font
+- Redesigned Main Menu
+- HOTFIX reverted new background shader as it crashs many computers and can also lead to damage
+- Discord RPC changed
+- LiquidChat renamed to IRC, cant work anymore so don't turn on unless you want to spam logs
+- Auto notify when a new update is out
+- Added NoFire client-side
+- Merged Weather Changer and World Time to Aesthetic
+- Fixed RedeskyTimerHop
+- Increase notification time, now fully supported ScriptAPI and Core.lib
+- Fixed Taco textures
+
+EvoLife Staff - 0x16#7207
