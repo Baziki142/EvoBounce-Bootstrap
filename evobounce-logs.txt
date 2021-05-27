@@ -1,20 +1,24 @@
-Changelog:
-- Added TargetMark & Skeletal
-- Merged same settings in many HUD elements
-- Fixed notifications, new logos
-- Completely removed 56 modules ^
-- Added new default fonts
-- Added 2 new capes: Catto & SkidmaJello
-- Added new button style & font
-- Redesigned Main Menu
-- HOTFIX reverted new background shader as it crashs many computers and can also lead to damage
-- Discord RPC changed
-- LiquidChat renamed to IRC, cant work anymore so don't turn on unless you want to spam logs
-- Auto notify when a new update is out
-- Added NoFire client-side
-- Merged Weather Changer and World Time to Aesthetic
-- Fixed RedeskyTimerHop
-- Increase notification time, now fully supported ScriptAPI and Core.lib
-- Fixed Taco textures
+[CHANGELOG | B4] BETA ACCESS:
+
+- Added AntiVoid void check. (wtf)
+- Added tag for Fullbright.
+- Added more options for Scaffold and Tower. (send help)
+- Small announcement.
+- Added animation speed option for Arraylist.
+- Added Astolfo style and more colors for Target element
+- Removed Flux scale option since mouse scroll exists.
+- Added 11 new placeholders: %health%, %maxHealth%, %healthInt%, %maxHealthInt%, %yaw%, %pitch%, %yawInt%, %pitchInt%, %bps%, %hurtTime%, %onGround%
+- Added Velocity reduce chance option.
+- Removed Scaffold Platform thingy.
+- Fixed Effects element.
+- Added TargetStrafe.
+- Added option to modify animation speed, added Rise animation style (Arraylist).
+- Added 4 new TargetHUD style: RiseOld, RiseNew, AstolfoOld, AstolfoNew.
+- Added "Fade" color option for more elements and modules, including missing existed modules.
+- Redesigned Cape and new logos.
+- Added ChatAnimation (also in HUD module) and option to turn off module toggle sound.
+- Added All and AutoReset option for NoRender.
+- Fixed AutoNotify when a new update is found.
+- Redesigned the window that opens when user double clicks the jar file.
 
 EvoLife Staff - 0x16#7207
